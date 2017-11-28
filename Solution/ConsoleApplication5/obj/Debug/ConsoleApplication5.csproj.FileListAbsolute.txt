@@ -1,0 +1,12 @@
+B:\C#\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+B:\C#\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+B:\C#\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+B:\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+B:\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+B:\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\G\Desktop\TennisScore_Georgi_Kostadinov_DanskeBank_Mobile\Solution\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\G\Desktop\TennisScore_Georgi_Kostadinov_DanskeBank_Mobile\Solution\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\G\Desktop\TennisScore_Georgi_Kostadinov_DanskeBank_Mobile\Solution\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\G\Desktop\New folder\TennisScore_Georgi_Kostadinov\Solution\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\G\Desktop\New folder\TennisScore_Georgi_Kostadinov\Solution\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\G\Desktop\New folder\TennisScore_Georgi_Kostadinov\Solution\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
